@@ -1,0 +1,242 @@
+2021-02-09 23:52:35,828 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:52:56,048 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:53:26,074 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:53:26,129 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'incoming.telemetry.mozilla.org', 0.0746150016784668),)|
+2021-02-09 23:53:50,278 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'start.firefoxchina.cn', 0.10059285163879395),)|
+2021-02-09 23:53:51,250 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'static.firefoxchina.cn', 0.07329916954040527),)|
+2021-02-09 23:53:51,253 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'hm.baidu.com', 0.07597589492797852),)|
+2021-02-09 23:53:56,124 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:53:59,190 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'www.bilibili.com', 0.05724906921386719),)|
+2021-02-09 23:54:01,380 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's1.hdslb.com', 0.046793222427368164),)|
+2021-02-09 23:54:01,381 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's1.hdslb.com', 0.00023126602172851562),)|
+2021-02-09 23:54:01,426 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's1.hdslb.com', 0.09370994567871094),)|
+2021-02-09 23:54:01,427 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's1.hdslb.com', 0.00022983551025390625),)|
+2021-02-09 23:54:01,466 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's1.hdslb.com', 0.13318109512329102),)|
+2021-02-09 23:54:01,475 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's1.hdslb.com', 0.1406702995300293),)|
+2021-02-09 23:54:01,497 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's1.hdslb.com', 0.16384005546569824),)|
+2021-02-09 23:54:01,764 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's1.hdslb.com', 0.42230224609375),)|
+2021-02-09 23:54:01,983 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i2.hdslb.com', 0.04483675956726074),)|
+2021-02-09 23:54:01,990 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i2.hdslb.com', 0.05062103271484375),)|
+2021-02-09 23:54:02,125 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i2.hdslb.com', 0.18633103370666504),)|
+2021-02-09 23:54:02,233 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i1.hdslb.com', 0.08682799339294434),)|
+2021-02-09 23:54:02,263 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i1.hdslb.com', 0.11344599723815918),)|
+2021-02-09 23:54:02,294 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i1.hdslb.com', 0.1417710781097412),)|
+2021-02-09 23:54:02,296 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i0.hdslb.com', 0.1247110366821289),)|
+2021-02-09 23:54:02,297 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i0.hdslb.com', 0.0002570152282714844),)|
+2021-02-09 23:54:02,298 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i0.hdslb.com', 0.0006241798400878906),)|
+2021-02-09 23:54:02,400 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i0.hdslb.com', 0.2283341884613037),)|
+2021-02-09 23:54:02,546 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i0.hdslb.com', 0.3742830753326416),)|
+2021-02-09 23:54:02,611 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'data.bilibili.com', 0.06451582908630371),)|
+2021-02-09 23:54:02,709 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i0.hdslb.com', 0.00029397010803222656),)|
+2021-02-09 23:54:02,723 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'data.bilibili.com', 0.0014710426330566406),)|
+2021-02-09 23:54:02,920 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.bilibili.com', 0.0669548511505127),)|
+2021-02-09 23:54:02,927 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.bilibili.com', 0.07291483879089355),)|
+2021-02-09 23:54:02,941 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.bilibili.com', 0.08804893493652344),)|
+2021-02-09 23:54:03,013 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.bilibili.com', 0.1644909381866455),)|
+2021-02-09 23:54:03,014 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.bilibili.com', 0.0003707408905029297),)|
+2021-02-09 23:54:03,026 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'cm.bilibili.com', 0.17436909675598145),)|
+2021-02-09 23:54:03,296 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'static.hdslb.com', 0.14948606491088867),)|
+2021-02-09 23:54:05,183 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'message.bilibili.com', 0.03198885917663574),)|
+2021-02-09 23:54:05,211 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'message.bilibili.com', 0.06037306785583496),)|
+2021-02-09 23:54:06,196 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'backup.hdslb.com', 0.04047203063964844),)|
+2021-02-09 23:54:06,255 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'backup.hdslb.com', 0.10498714447021484),)|
+2021-02-09 23:54:10,229 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.vc.bilibili.com', 0.06717801094055176),)|
+2021-02-09 23:54:27,211 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:54:45,401 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'services.addons.mozilla.org', 0.14583086967468262),)|
+2021-02-09 23:54:55,524 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'versioncheck-bg.addons.mozilla.org', 0.04557013511657715),)|
+2021-02-09 23:54:55,529 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'versioncheck-bg.addons.mozilla.org', 0.04961681365966797),)|
+2021-02-09 23:54:55,593 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'versioncheck-bg.addons.mozilla.org', 0.1145789623260498),)|
+2021-02-09 23:54:58,283 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:55:29,372 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:55:41,472 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'live.bilibili.com', 0.06495809555053711),)|
+2021-02-09 23:55:45,666 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'activity.hdslb.com', 0.05176973342895508),)|
+2021-02-09 23:55:45,669 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'activity.hdslb.com', 0.05551624298095703),)|
+2021-02-09 23:55:45,827 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'activity.hdslb.com', 0.2129819393157959),)|
+2021-02-09 23:55:47,600 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'content-signature-2.cdn.mozilla.net', 0.169281005859375),)|
+2021-02-09 23:55:51,645 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's2.hdslb.com', 0.01865220069885254),)|
+2021-02-09 23:55:51,683 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.live.bilibili.com', 0.05785012245178223),)|
+2021-02-09 23:55:51,707 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's2.hdslb.com', 0.07891106605529785),)|
+2021-02-09 23:55:51,801 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's2.hdslb.com', 0.1755208969116211),)|
+2021-02-09 23:55:51,802 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's2.hdslb.com', 0.00018715858459472656),)|
+2021-02-09 23:55:56,508 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'aus5.mozilla.org', 0.04912900924682617),)|
+2021-02-09 23:55:59,376 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:56:29,472 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:56:59,648 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:57:29,736 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:58:00,745 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:58:30,903 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:59:01,966 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-09 23:59:32,971 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:00:03,031 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:00:33,097 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:01:03,217 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:01:34,333 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:02:05,331 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:02:35,485 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:03:06,550 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:03:37,553 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:04:07,657 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:04:38,745 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:05:09,784 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:05:40,790 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:06:10,857 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:06:40,975 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:06:53,060 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'token.services.mozilla.com', 0.05055689811706543),)|
+2021-02-10 00:06:53,070 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'profile.accounts.firefox.com', 0.059827327728271484),)|
+2021-02-10 00:07:04,119 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.accounts.firefox.com', 0.08626103401184082),)|
+2021-02-10 00:07:05,033 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.accounts.firefox.com', 0.0005922317504882812),)|
+2021-02-10 00:12:06,924 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:12:37,956 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:37:20,776 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 00:37:51,801 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 01:29:02,652 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 03:29:28,445 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 03:29:58,614 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:30:25,569 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:30:56,582 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:31:26,743 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:31:56,837 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:32:26,978 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:32:58,061 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:33:29,139 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:34:00,151 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:34:30,293 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:35:01,339 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:35:32,340 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 05:36:02,469 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 07:36:30,332 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:30:04,888 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:30:35,923 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:31:06,079 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:31:37,088 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:32:07,163 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:32:37,227 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:33:07,271 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:33:37,342 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:34:07,476 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:34:37,574 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:35:08,576 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:35:38,638 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:36:08,740 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:36:38,792 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:37:08,935 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:37:40,022 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:38:11,026 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:38:41,118 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:39:11,156 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:39:41,324 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:40:12,326 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:40:42,404 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:41:12,438 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:41:42,598 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:42:13,600 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:42:43,815 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:43:14,967 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:43:46,048 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:44:17,050 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:44:47,184 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:45:17,306 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:45:47,412 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:46:17,580 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:46:48,646 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:47:19,647 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:47:49,765 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:48:20,768 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:48:50,945 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:49:22,011 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:49:53,081 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:50:24,087 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:50:54,169 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:51:24,342 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:51:55,408 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:52:26,517 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:52:57,526 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:53:27,631 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:53:57,822 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:54:28,826 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:54:58,956 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:55:29,157 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:56:00,161 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:56:30,214 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:57:00,321 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:57:30,424 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:58:00,558 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:58:30,656 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:58:55,871 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'incoming.telemetry.mozilla.org', 0.005738019943237305),)|
+2021-02-10 09:59:00,878 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 09:59:31,886 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:00:01,949 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:00:32,135 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:01:02,217 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:01:33,234 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:02:03,435 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:02:34,436 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:03:04,500 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:03:34,586 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:04:04,737 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:04:35,739 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:05:05,849 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:05:35,950 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:06:06,124 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:06:37,139 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:07:07,306 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:07:38,316 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:08:08,400 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:08:38,514 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:09:09,529 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:09:39,634 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:10:09,750 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:10:39,853 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:11:10,019 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:11:41,027 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:12:11,229 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:12:42,236 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:13:12,435 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:13:43,444 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:14:13,609 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:14:44,611 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:15:14,830 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:15:45,841 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:16:15,932 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:16:45,979 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:17:16,128 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:17:47,173 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:18:18,181 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:18:48,257 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:19:18,399 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:19:49,408 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:20:19,458 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:20:49,556 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:21:20,570 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:21:50,620 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:22:20,687 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:22:50,772 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:23:20,856 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:23:51,074 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:24:22,076 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:24:52,236 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:25:23,238 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:25:53,339 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:26:23,569 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:26:54,585 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:27:24,758 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:27:54,888 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:28:25,049 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:28:55,197 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:29:25,299 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 10:29:55,393 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 11:29:29,336 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 11:33:34,045 - loggerUtil.py[line:2] - INFO: (('心跳检测',),)|
+2021-02-10 11:33:37,039 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'incoming.telemetry.mozilla.org', 0.001252889633178711),)|
+2021-02-10 11:33:37,040 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'incoming.telemetry.mozilla.org', 0.002151966094970703),)|
+2021-02-10 11:33:37,040 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'profile.accounts.firefox.com', 0.0016109943389892578),)|
+2021-02-10 11:33:37,041 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'incoming.telemetry.mozilla.org', 0.0015630722045898438),)|
+2021-02-10 11:33:37,055 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.vc.bilibili.com', 0.0016009807586669922),)|
+2021-02-10 11:33:37,056 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.vc.bilibili.com', 0.0018100738525390625),)|
+2021-02-10 11:33:37,056 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.vc.bilibili.com', 0.0018239021301269531),)|
+2021-02-10 11:33:37,299 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'shavar.services.mozilla.com', 0.2601199150085449),)|
+2021-02-10 11:33:38,039 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.vc.bilibili.com', 0.0002932548522949219),)|
+2021-02-10 11:33:40,077 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'location.services.mozilla.com', 0.03451895713806152),)|
+2021-02-10 11:33:41,051 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'content-signature-2.cdn.mozilla.net', 0.0007269382476806641),)|
+2021-02-10 11:33:41,154 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'data.bilibili.com', 0.0014300346374511719),)|
+2021-02-10 11:33:42,127 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'tracking-protection.cdn.mozilla.net', 0.08120083808898926),)|

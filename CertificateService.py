@@ -58,7 +58,9 @@ class CAAuth(object):
 
     def __getitem__(self, cn):
         if cn == "proxy.ca":
-            return self.cert
+            with open(self.cert_file_path, "rb") as f:
+                pem_data = f.read()
+            return pem_data
         # 将为每个域名生成的服务器证书，放到临时目录中
         cache_dir = gettempdir()
         root_dir = os.path.join(cache_dir, 'mec_cert')

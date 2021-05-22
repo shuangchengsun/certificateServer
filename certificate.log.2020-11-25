@@ -1,0 +1,16 @@
+2020-11-25 21:58:06,904 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'www.bilibili.com', 0.10147285461425781),)|
+2020-11-25 21:58:07,078 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'incoming.telemetry.mozilla.org', 0.17251920700073242),)|
+2020-11-25 21:58:07,968 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 's1.hdslb.com', 0.1784510612487793),)|
+2020-11-25 21:58:08,370 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i1.hdslb.com', 0.13193011283874512),)|
+2020-11-25 21:58:08,438 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i2.hdslb.com', 0.06760025024414062),)|
+2020-11-25 21:58:08,657 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'i0.hdslb.com', 0.21889209747314453),)|
+2020-11-25 21:58:08,728 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'data.bilibili.com', 0.07018017768859863),)|
+2020-11-25 21:58:09,917 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'cm.bilibili.com', 0.04056191444396973),)|
+2020-11-25 21:58:09,991 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.bilibili.com', 0.07367300987243652),)|
+2020-11-25 21:58:10,035 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'static.hdslb.com', 0.04439282417297363),)|
+2020-11-25 21:58:10,313 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'backup.hdslb.com', 0.033586978912353516),)|
+2020-11-25 21:58:10,347 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.live.bilibili.com', 0.03197288513183594),)|
+2020-11-25 21:58:10,485 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'message.bilibili.com', 0.08503389358520508),)|
+2020-11-25 21:58:10,938 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'api.vc.bilibili.com', 0.024239301681518555),)|
+2020-11-25 21:58:26,058 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'live-trace.bilibili.com', 0.13474297523498535),)|
+2020-11-25 21:58:29,540 - loggerUtil.py[line:2] - INFO: (('证书签发服务--host: ', 'manga.bilibili.com', 0.022333145141601562),)|

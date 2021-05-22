@@ -8,7 +8,8 @@ import logging
 msgLen = 4096
 LOG_FORMAT = "%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s"
 TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
-file_path = "/var/certificate/logs/"
+# file_path = "/var/certificate/logs/"
+file_path = "./logs/"
 log_file = file_path + "certificate.log"
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -24,32 +25,60 @@ def netService(tcpClient, clientAddr, ca_auth):
     :param clientAddr: TCP客户端的地址
     """
     while True:
-        recv_data = tcpClient.recv(4096)
-        if len(recv_data) == 0:
+        # recv_data = tcpClient.recv(4096)
+        id = tcpClient.recv(8)
+        if len(id) == 0:
             break
-        if recv_data:
-            ser, bus_type, conn_type, content = decoder(recv_data)
-            if bus_type == 0x01:
-                # 表示是证书相关的业务
-                host = content.decode()
-                t1 = time.time()
-                pem_data = ca_auth[host]
-                msg = encoder(ser, pem_data)
-                t2 = time.time()
-                loggerUtil.info(logger, "证书签发服务--host: ", host, (t2 - t1))
-                tcpClient.send(msg)
+        print("id: ", id)
+        length = tcpClient.recv(4)
+        if len(length) == 0:
+            break
+        length = int.from_bytes(length, byteorder='big', signed=False)
+        print("len: ", length)
+        data = tcpClient.recv(length)
+        print("data: ", data)
+        if len(data) == 0:
+            break
+        if data:
+            host = data.decode()
+            t1 = time.time()
+            pem_data = ca_auth[host]
+            t2 = time.time()
+            logger.info("证书签发服务--host: {}, time: {}".format(host, (t2 - t1)))
+            tcpClient.send(id)
+            length = len(pem_data)
+            tcpClient.send(int.to_bytes(length, byteorder="big", length=4))
+            tcpClient.send(pem_data)
+
+        # if recv_data:
+        #     ser, bus_type, conn_type, content = decoder(recv_data)
+        #     msg = b''
+        #     if bus_type == 0x01:
+        #         # 表示是证书相关的业务
+        #         host = content.decode()
+        #         t1 = time.time()
+        #         pem_data = ca_auth[host]
+        #         msg = encoder(ser, 0x01, pem_data)
+        #         t2 = time.time()
+        #         loggerUtil.info(logger, "证书签发服务--host: ", host, (t2 - t1))
+        #     if bus_type == 0x02:
+        #         # 表明是心跳数据
+        #         msg = encoder(ser, 0x02, b'')
+        #         loggerUtil.info(logger, "心跳检测", )
+        #     tcpClient.send(msg)
+        #     # print("send call")
 
 
-def encoder(ser, data):
+def encoder(ser, type, data):
     """
     编码解码
     :param data: 需要编码的数据
     """
     '''
     0x01:证书业务
-    0x02:错误消息
+    0x02:心跳
     '''
-    bus_type = 0x01
+    bus_type = type
     # 0x01表示长链接，0x02表示断开
     conn_type = 0x01
     # 填充
